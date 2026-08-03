@@ -1,0 +1,8 @@
+{
+  "label": "SECIQ",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentation for the SECIQ IoT and edge security platform."
+  }
+}

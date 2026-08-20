@@ -1,0 +1,11 @@
+{
+  "label": "BETA Program",
+  "position": 20,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "NeuroSEC BETA Program",
+    "description": "BETA readiness, execution, validation and release governance for NeuroSEC."
+  }
+}
